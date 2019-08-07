@@ -11,7 +11,7 @@ from main_utils import *
 from utils import geometry
 from evaluation_utils import evaluate_2d, evaluate_3d
 
-TOTAL_NUM_SAMPLES = 0
+TOTAL_NUM_SAMPLES = 1
 
 
 def evaluate(val_loader, model, logger, args):

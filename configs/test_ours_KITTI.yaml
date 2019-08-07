@@ -31,6 +31,7 @@ DEVICE: cuda
 
 dataset: KITTI
 remove_ground: True
+data_root: /home/cyngn/scene_flow/HPLFlowNet/SAVE_PATH_SMALL
 
 data_process:
   DEPTH_THRESHOLD: 35.
